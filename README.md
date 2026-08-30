@@ -1,5 +1,7 @@
 # ocscope
 
+**Idiomas:** [🇪🇸 Español](README.md) | [🇬🇧 English](README.en.md)
+
 ![ocscope en la vista principal](screenshots/overview.png)
 
 **ocscope** es una herramienta de terminal para observar y diagnosticar
