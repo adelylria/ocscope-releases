@@ -277,9 +277,7 @@ no imprime secretos, valores de variables ni contenidos de Secrets.
 
 ## Licencia
 
-<!-- [EDITAR] Indica aquí la licencia y el enlace al texto legal. -->
-
-Este software se distribuye bajo los términos de **[NOMBRE DE LA LICENCIA]**.
+Este software se distribuye bajo los términos de la **Licencia Apache 2.0**.
 Consulta [`LICENSE`](LICENSE) para más información.
 
 ## Contacto y soporte

@@ -275,9 +275,7 @@ secrets, variable values, or Secrets contents.
 
 ## License
 
-<!-- [EDIT] Indicate the license and link to the legal text here. -->
-
-This software is distributed under the terms of **[LICENSE NAME]**.
+This software is distributed under the terms of the **Apache License 2.0**.
 See [`LICENSE`](LICENSE) for more information.
 
 ## Contact and support
