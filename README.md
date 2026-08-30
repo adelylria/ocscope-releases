@@ -1,8 +1,19 @@
 # ocscope
 
+![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows-blue)
+![OpenShift](https://img.shields.io/badge/OpenShift-CLI-red)
+![License](https://img.shields.io/badge/license-Apache%202.0-green)
+![Latest Release](https://img.shields.io/github/v/release/adelylria/ocscope-releases)
+
 **Idiomas:** [🇪🇸 Español](README.md) | [🇬🇧 English](README.en.md)
 
+> Observa, diagnostica y entiende tus workloads de OpenShift desde la terminal.
+
 ![ocscope en la vista principal](screenshots/overview.png)
+
+ocscope es una TUI de solo lectura para OpenShift que reúne Pods,
+eventos, diagnóstico, logs, métricas y estado de workloads en una
+única interfaz.
 
 **ocscope** es una herramienta de terminal para observar y diagnosticar
 aplicaciones desplegadas en OpenShift. Reúne el estado de los Pods, eventos,
@@ -287,6 +298,3 @@ Consulta [`LICENSE`](LICENSE) para más información.
 - Problemas: [Issues](https://github.com/adelylria/ocscope-releases/issues)
 - Releases: [Releases](https://github.com/adelylria/ocscope-releases/releases)
 ---
-
-**Versión documentada:** `[VERSION]`  
-**Última actualización:** `[FECHA]`
